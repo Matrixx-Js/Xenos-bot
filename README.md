@@ -1,5 +1,9 @@
-<img src="https://cdn.discordapp.com/attachments/744565410657075260/832963925284094062/Xenos_IMG_4102.png">
-# Xenos
+<script>
+ function imgWindow() {
+  window.open("image") }
+</script>
+
+<img onclick="image()" src="https://cdn.discordapp.com/attachments/744565410657075260/832963925284094062/Xenos_IMG_4102.png"> # Xenos
 
    
 
