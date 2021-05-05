@@ -1,9 +1,6 @@
-<img src="https://cdn.discordapp.com/attachments/744565410657075260/832963925284094062/Xenos_IMG_4102.png"> 
-
 # Xenos
-
+![0FE1842E-C0FA-40AE-9056-3083F5B838FF](https://cdn.discordapp.com/attachments/744565410657075260/832963925284094062/Xenos_IMG_4102.png)
 > Ce bot est utlisé par plus de 300k d'utilisateurs dans plus de 300 serveurs.
-![0FE1842E-C0FA-40AE-9056-3083F5B838FF](https://user-images.githubusercontent.com/62359510/117173704-53c12580-adcd-11eb-8b57-6955f2859a4f.jpeg)
 
 Xenos est un bot Multi - Fonctions en Discord.js et avec Mongoose par Matrixx.
 Vous êtes libre d'ajouter une étoile ⭐ pour promouvoir le projet !
