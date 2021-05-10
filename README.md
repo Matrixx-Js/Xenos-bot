@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://www.codefactor.io/repository/github/matrixx-js/xenos-bot/badge)](https://www.codefactor.io/repository/github/matrixx-js/xenos-bot)
 
-> Ce bot est utlisé par plus de 300k d'utilisateurs dans plus de 300 serveurs.
+> Xenos est un bot et est utlisé par plus de 300k d'utilisateurs dans plus de 300 serveurs.
 
 Xenos est un bot Multi - Fonctions fait avec [Discord.js](https://discord.js.org) et [Mongoose](https://mongoosejs.com/) par Matrixx.
 
