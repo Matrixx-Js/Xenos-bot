@@ -3,7 +3,7 @@
 
 # Xenos
 [![](https://top.gg/api/widget/status/744228218965590096.svg)](https://top.gg/bot/744228218965590096)
-[![](https://img.shields.io/discord/703861020195553312.svg?logo=discord&colorB=7289DA)]()
+[![](https://img.shields.io/discord/703861020195553312.svg?logo=discord&colorB=7289DA)](https://discord.gg/cPSsKrw)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://www.codefactor.io/repository/github/matrixx-js/xenos-bot/badge)](https://www.codefactor.io/repository/github/matrixx-js/xenos-bot)
 
