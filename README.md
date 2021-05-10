@@ -9,7 +9,7 @@
 
 > Xenos est un bot et est utlisé par plus de 300k d'utilisateurs dans plus de 300 serveurs.
 
-Xenos est un bot Multi - Fonctions fait avec [Discord.js](https://discord.js.org) et [Mongoose](https://mongoosejs.com/) par Matrixx.
+Xenos est un bot Multi - Fonctions fait avec [Discord.js](https://discord.js.org) et [Mongoose](https://mongoosejs.com/) par [Matrixx](https://github.com/Matrixx-Js).
 
 ## Fonctionnalités
 
@@ -23,12 +23,12 @@ Vous pouvez directerment Editer la configuration, Gérer vos serveurs, Votre car
 
 ## Liens
 
-Commands List
-Installation Guide
-F.A.Q
-Discord
-Github
-Dashboard
+*   [Commands List](#)
+*   [Installation Guide](https://discord.gg/cPSsKrw)
+*   [F.A.Q](https://discord.gg/cPSsKrw)
+*   [Discord](https://discord.gg/cPSsKrw)
+*   [Github](https://github.com/Matrixx-Js/Xenos-bot/)
+*   [Dashboard](#)
 
 ## Xenos - Bot
 Xenos est un bot Anti-Raid, Sécurité, Configurable, Giveaway,  Français ... Multi Fonction 🤖 ! Pouvant rendre votre serveur encore meilleur ! ⚙️
