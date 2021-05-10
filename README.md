@@ -13,7 +13,7 @@
 
 ## Fonctionnalités
 
-### De magnifique commande interactive de configuration 
+### De magnifique commandes interactives de configuration 
 
 [Xenos](https://top.gg/bot/744228218965590096/invite/) a beaucoups de commandes interactives pour configurer ces systèmes ( captcha, anti-spam, suggest, bienvenue, leave ... ) qui vout permet ainsi de ne pas perdre de temps à en comprendre le fonctionnement !
 
@@ -35,10 +35,10 @@
 
 ### Dashboard en développement
 
-Ainsi qu'un magnifique dashboard qui est encore en cours de developpement mais qui offrira plein de fonctionnalitées ! 
+Xenos disposera aussi d'un magnifique dashboard qui est encore en cours de developpement mais qui offrira plein de fonctionnalitées ! 
 > Le dashboard est fait avec [Express](https://expressjs.com/fr/) et [ReactJs](https://fr.reactjs.org/docs/getting-started.html) !
 
-Vous pourez directement y Gérer vos serveurs, Votre carte de rank, Et bien plus !
+__Vous pourez directement y Gérer vos serveurs, Votre carte de rank, Et bien plus !__
 
 
 ## Liens
