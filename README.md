@@ -18,7 +18,7 @@
 [Xenos](https://top.gg/bot/744228218965590096/invite/) a beaucoups de commandes interactives pour configurer ces systèmes ( captcha, anti-spam, suggest, bienvenue, leave ... ) qui vout permet ainsi de ne pas perdre de temps à en comprendre le fonctionnement !
 
 <img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://cdn.discordapp.com/attachments/744565410657075260/841289341623468062/DF3BC390-E767-462C-9B83-ED3A24EA1931.jpeg"/>
-<?php echo "xenos.setbienvenue" ?>
+<pre><code><?php echo 'xenos.setbienvenue'; ?></pre></code>
 <hr />
 
 <img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://cdn.discordapp.com/attachments/744565410657075260/841289339337572412/AD288A74-79CA-491F-BEE6-354B28015400.jpeg"/>
