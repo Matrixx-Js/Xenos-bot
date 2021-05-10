@@ -19,7 +19,9 @@ Xenos a un magnifique dashboard qui offre plein de fonctionnalitées! Le dashboa
 
 Vous pouvez directerment Editer la configuration, Gérer vos serveurs, Votre carte de rank, Et bien plus!
 
-##Liens
+##
+
+## Liens
 
 Commands List
 Installation Guide
