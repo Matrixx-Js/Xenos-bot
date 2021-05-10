@@ -9,7 +9,7 @@
 
 > Xenos est un bot discord utlisé par plus de 300k d'utilisateurs dans plus de 300 serveurs 💡.
 
-Xenos est un bot Multi - Fonctions fait avec [Discord.js](https://discord.js.org) et [Mongoose](https://mongoosejs.com/) par [Matrixx](https://github.com/Matrixx-Js).
+⭐ Xenos est un bot Multi - Fonctions fait avec [Discord.js](https://discord.js.org) et [Mongoose](https://mongoosejs.com/) par [Matrixx](https://github.com/Matrixx-Js).
 
 ## Fonctionnalités
 
