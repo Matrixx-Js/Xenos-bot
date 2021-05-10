@@ -22,15 +22,15 @@
 <hr />
 
 <img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://cdn.discordapp.com/attachments/744565410657075260/841289339337572412/AD288A74-79CA-491F-BEE6-354B28015400.jpeg"/>
-<pre><code>xenos.setbienvenue config</pre></code>
-<hr />
-
-<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://cdn.discordapp.com/attachments/744565410657075260/841289338079281152/3746A960-DF29-4B01-AC9E-3D77E31DBC09.jpeg"/>
 <pre><code>#xenos-bienvenue</pre></code>
 <hr />
 
-<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://cdn.discordapp.com/attachments/744565410657075260/841289336489115688/099F3BD0-C7ED-4F29-B11D-6C314D9144EC.jpeg"/>
+<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://cdn.discordapp.com/attachments/744565410657075260/841289338079281152/3746A960-DF29-4B01-AC9E-3D77E31DBC09.jpeg"/>
 <pre><code>⭐️ Bienvenue **{user_name}** sur le serveur {server_name} 🌙</pre></code>
+<hr />
+
+<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://cdn.discordapp.com/attachments/744565410657075260/841289336489115688/099F3BD0-C7ED-4F29-B11D-6C314D9144EC.jpeg"/>
+<pre><code>✅ Système de Bienvenue Configuré</pre></code>
 <hr />
 
 Ainsi qu'un magnifique dashboard qui est encore en cours de developpement mais qui offrira plein de fonctionnalitées! Le dashboard est fait avec express et ReactJs !
