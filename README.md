@@ -15,7 +15,7 @@
 
 ### De magnifique commande interactive de configuration 
 
-Xenos a beaucoups de commandes interactives pour configurer ces systèmes ( captcha, anti-spam, suggest, bienvenue, leave ... ) qui vout perlet ainsi de ne pas perdre de temps à en comprendre le fonctionnement
+[Xenos](https://top.gg/bot/744228218965590096/invite/) a beaucoups de commandes interactives pour configurer ces systèmes ( captcha, anti-spam, suggest, bienvenue, leave ... ) qui vout permet ainsi de ne pas perdre de temps à en comprendre le fonctionnement !
 
 
 Ainsi qu'un magnifique dashboard qui est encore en cours de developpement mais qui offrira plein de fonctionnalitées! Le dashboard est fait avec express et ReactJs !
