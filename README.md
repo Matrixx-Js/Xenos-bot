@@ -7,13 +7,9 @@
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://www.codefactor.io/repository/github/matrixx-js/xenos-bot/badge)](https://www.codefactor.io/repository/github/matrixx-js/xenos-bot)
 
-
-
 > Ce bot est utlisé par plus de 300k d'utilisateurs dans plus de 300 serveurs.
 
-Xenos est un bot Multi - Fonctions en Discord.js et avec Mongoose par Matrixx.
-Vous êtes libre d'ajouter une étoile ⭐ pour promouvoir le projet !
-
+Xenos est un bot Multi - Fonctions fait avec [Discord.js](https://discord.js.org) et [Mongoose](https://mongoosejs.com/) par Matrixx.
 
 ## Fonctionnalités
 
@@ -34,5 +30,5 @@ Discord
 Github
 Dashboard
 
-##Xenos - Bot
+## Xenos - Bot
 Xenos est un bot Anti-Raid, Sécurité, Configurable, Giveaway,  Français ... Multi Fonction 🤖 ! Pouvant rendre votre serveur encore meilleur ! ⚙️
