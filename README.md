@@ -1,6 +1,12 @@
 
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Green bot" src="https://cdn.discordapp.com/attachments/744565410657075260/832963925284094062/Xenos_IMG_4102.png?size=512">  
-## Xenos
+
+# Xenos
+
+[![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
+[![](https://www.codefactor.io/repository/github/matrixx-js/xenos-bot/badge)](https://www.codefactor.io/repository/github/matrixx-js/xenos-bot)
+
+
 
 > Ce bot est utlisé par plus de 300k d'utilisateurs dans plus de 300 serveurs.
 
