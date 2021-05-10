@@ -13,9 +13,12 @@
 
 ## Fonctionnalités
 
-Un magnifique site
+### De magnifique commande interactive de configuration 
 
-Xenos a un magnifique dashboard qui offre plein de fonctionnalitées! Le dashboard est fait avec express et ReactJs !
+Xenos a beaucoups de commandes interactives pour configurer ces systèmes ( captcha, anti-spam, suggest, bienvenue, leave ... ) qui vout perlet ainsi de ne pas perdre de temps à en comprendre le fonctionnement
+
+
+Ainsi qu'un magnifique dashboard qui est encore en cours de developpement mais qui offrira plein de fonctionnalitées! Le dashboard est fait avec express et ReactJs !
 
 
 
