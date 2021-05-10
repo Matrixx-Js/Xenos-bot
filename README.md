@@ -48,6 +48,3 @@ Vous pourez directement y Gérer vos serveurs, Votre carte de rank, Et bien plus
    * 🏷  [Discord](https://discord.gg/cPSsKrw)   
    * 📁  [Github](https://github.com/Matrixx-Js/Xenos-bot/)
    * 🎗  [Dashboard](#)
-
-## Xenos - Bot
-Xenos est un bot Anti-Raid, Sécurité, Configurable, Giveaway,  Français ... Multi Fonction 🤖 ! Pouvant rendre votre serveur encore meilleur ! ⚙️
