@@ -22,7 +22,11 @@
 ###
 <img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://cdn.discordapp.com/attachments/744565410657075260/841289339337572412/AD288A74-79CA-491F-BEE6-354B28015400.jpeg"/>
 
-####
+---
+
+* * *
+
+- - -
 <img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://cdn.discordapp.com/attachments/744565410657075260/841289338079281152/3746A960-DF29-4B01-AC9E-3D77E31DBC09.jpeg"/>
 
 ## 
@@ -34,6 +38,7 @@ Ainsi qu'un magnifique dashboard qui est encore en cours de developpement mais q
 
 
 Vous pouvez directerment Editer la configuration, Gérer vos serveurs, Votre carte de rank, Et bien plus!
+
 
 ## Liens
 
