@@ -4,7 +4,7 @@
 
 Xenos est un bot Multi - Fonctions en Discord.js et avec Mongoose par Matrixx.
 Vous êtes libre d'ajouter une étoile ⭐ pour promouvoir le projet !
-##
+
 
 ## Fonctionnalités
 
@@ -14,12 +14,7 @@ Xenos a un magnifique dashboard qui offre plein de fonctionnalitées! Le dashboa
 
 
 
-
-
-
 Vous pouvez directerment Editer la configuration, Gérer vos serveurs, Votre carte de rank, Et bien plus!
-
-##
 
 ## Liens
 
