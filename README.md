@@ -23,12 +23,12 @@ Vous pouvez directerment Editer la configuration, Gérer vos serveurs, Votre car
 
 ## Liens
 
-*   [Commands List](#)
-*   [Installation Guide](https://discord.gg/cPSsKrw)
-*   [F.A.Q](https://discord.gg/cPSsKrw)
-*   [Discord](https://discord.gg/cPSsKrw)
-*   [Github](https://github.com/Matrixx-Js/Xenos-bot/)
-*   [Dashboard](#)
+*   📋 [Commands List](#)
+*   📕 [Installation Guide](https://discord.gg/cPSsKrw)
+*   ❓ [F.A.Q](https://discord.gg/cPSsKrw)
+*   🏷 [Discord](https://discord.gg/cPSsKrw)
+*   📁 [Github](https://github.com/Matrixx-Js/Xenos-bot/)
+*   🎗 [Dashboard](#)
 
 ## Xenos - Bot
 Xenos est un bot Anti-Raid, Sécurité, Configurable, Giveaway,  Français ... Multi Fonction 🤖 ! Pouvant rendre votre serveur encore meilleur ! ⚙️
