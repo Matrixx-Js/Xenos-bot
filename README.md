@@ -1,5 +1,5 @@
 
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Green bot" src="https://cdn.discordapp.com/attachments/744565410657075260/832963925284094062/Xenos_IMG_4102.png?size=512">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Xenos" src="https://cdn.discordapp.com/attachments/744565410657075260/832963925284094062/Xenos_IMG_4102.png?size=512">  
 
 # Xenos
 [![](https://top.gg/api/widget/status/744228218965590096.svg)](https://top.gg/bot/744228218965590096)
