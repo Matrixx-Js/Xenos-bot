@@ -3,7 +3,7 @@
 
 # Xenos
 [![](https://top.gg/api/widget/status/744228218965590096.svg)](https://top.gg/bot/744228218965590096)
-[![](https://img.shields.io/discord/703861020195553312.svg?logo=discord&colorB=7289DA)](https://discord.gg/cPSsKrw)
+[![](https://img.shields.io/discord/703861020195553312.svg?logo=discord&colorB=7289DA)](https://discord.gg/gAtK8ArtzT)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://www.codefactor.io/repository/github/matrixx-js/xenos-bot/badge)](https://www.codefactor.io/repository/github/matrixx-js/xenos-bot)
 
@@ -44,8 +44,8 @@ __Vous pourez directement y Gérer vos serveurs, Votre carte de rank, Et bien pl
 ## Liens
 
    * 📋  [Commands List](#)
-   * 📕  [Installation Guide](https://discord.gg/cPSsKrw)
-   * ❓  [F.A.Q](https://discord.gg/cPSsKrw)
-   * 🏷  [Discord](https://discord.gg/cPSsKrw)   
+   * 📕  [Installation Guide](https://discord.gg/gAtK8ArtzT)
+   * ❓  [F.A.Q](https://discord.gg/gAtK8ArtzT)
+   * 🏷  [Discord](https://discord.gg/gAtK8ArtzT)   
    * 📁  [Github](https://github.com/Matrixx-Js/Xenos-bot/)
    * 🎗  [Dashboard](#)
